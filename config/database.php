@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'ovh1.clusters.zeabur.com');
 define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'login_app');
+define('DB_PASS', 'rgxbP3jsMo2657f8q9T4YUAhelaI10wk');
+define('DB_NAME', 'zeabur');
 
 // Función para obtener la conexión a la base de datos
 function getDbConnection() {
