@@ -1,23 +1,17 @@
 # Sistema de Login con PHP y JavaScript
 
-Este proyecto implementa un sistema de login con validación de usuario y contraseña, utilizando PHP para el backend y JavaScript para el frontend. La aplicación sigue un patrón MVC básico para mejor organización del código.
+Este proyecto implementa un sistema de login con validación de usuario y contraseña, utilizando PHP para el backend y JavaScript para el frontend. La aplicación sigue un patrón MVC básico.
 
 ## Características
 
-- Validación de formulario en tiempo real (client-side)
-- Validación en el servidor (server-side)
+- Validación de formulario en tiempo real
+- Validación en el servidor
 - Persistencia de sesión con PHP Sessions
-- Respaldo en localStorage para mejor experiencia de usuario
+- Respaldo en localStorage
 - Diseño responsive y moderno
 - Efecto de carga durante la autenticación
 - Cierre de sesión
-- Estructura MVC para mejor mantenimiento
-
-## Requisitos
-
-- PHP 7.4 o superior
-- MySQL 5.7 o superior
-- Servidor web (Apache, Nginx, etc.)
+- Estructura MVC
 
 ## Instalación
 
@@ -29,6 +23,8 @@ Este proyecto implementa un sistema de login con validación de usuario y contra
 
 3. Colocar los archivos en tu servidor web
 4. Acceder a la aplicación desde tu navegador
+
+localhost/proyectolocalstorage/
 
 ## Estructura del Proyecto
 
